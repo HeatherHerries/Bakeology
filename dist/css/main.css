@@ -1,2 +1,8 @@
+* {
+  margin: 0;
+  padding: 0; }
+
 body {
-  background: red; }
+  font-family: "Dosis", sans-serif;
+  line-height: 1.6;
+  background: #9ca73f; }
